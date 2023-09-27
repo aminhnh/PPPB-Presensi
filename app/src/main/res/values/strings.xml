@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PPPB Presensi</string>
+    <string-array name="keterangan_kehadiran">
+        <item>Hadir Tepat Waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </string-array>
+</resources>
